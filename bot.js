@@ -21,7 +21,7 @@ const azureCongitiveServiceKey = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
         method: 'POST',
         headers: headers
     };
-const botKey = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+const botKey = "629054625:AAGutooCjqsH9QaXxng59WECWbmIIPDQ3X0",
     bot = new Telegraf(botKey),
     telegram = new Telegram(botKey);
 
