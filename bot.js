@@ -10,7 +10,7 @@ const Telegraf = require('telegraf'),
     Telegram = require('telegraf/telegram'),
     request = require('request');
 
-const azureCongitiveServiceKey = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+const azureCongitiveServiceKey = "7e10e90c7d594801a46fbe8ae9e92fdf",
     uriBase = "https://northeurope.api.cognitive.microsoft.com/vision/v1.0/ocr?language=unk",
     headers = {
         "Content-Type": "application/json",
